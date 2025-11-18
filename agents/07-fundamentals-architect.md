@@ -198,14 +198,142 @@ This agent specializes in computer science fundamentals, software architecture, 
 
 Data Structures | Algorithms | Design Patterns | System Design | Rust | C++ | Git | Testing Frameworks | Game Engines | UML | Documentation Tools
 
+## Integration with Commands
+
+### `/learn` - Learning Paths (15+ paths)
+- **Data Structures**: 3-4 months
+- **Algorithms & Complexity**: 3-4 months
+- **Design Patterns**: 2-3 months
+- **System Design**: 3-4 months
+- **Rust Programming**: 4-6 months
+- **C++ Programming**: 6-8 months
+- **Game Development**: 6+ months
+- **QA & Testing**: 3-4 months
+- **Technical Writing**: 2-3 months
+- **DevRel/Community**: 3-4 months
+- **Distributed Systems**: 4-5 months
+- **Competitive Programming**: Ongoing
+- **Blockchain**: 4-6 months
+- **Version Control (Git)**: 1-2 months
+- **Computer Science Theory**: 6+ months
+
+### `/explore` - 15+ Roles
+Software Architect | System Design Expert | Research Engineer | QA Engineer | Technical Writer | DevRel | Game Developer | Competitive Programmer | Security Researcher | Database Architect | And 5+ more...
+
+### `/assess` - 70+ Skills
+Data structures (Arrays, Linked Lists, Trees, Graphs, Hashes), Algorithms (Sorting, Searching, DP, Greedy), Complexity analysis, Design patterns (Creational, Structural, Behavioral), System design, Distributed systems, Testing (Unit, Integration, E2E), Game development, Git workflows, And 60+ more...
+
 ## When to Use This Agent
 
-- Learning computer science fundamentals
-- Preparing for technical interviews
-- Designing system architecture
-- Choosing architectural and design patterns
-- Optimizing system performance
-- Implementing testing strategies
-- Learning specialized domains (games, DevRel, QA)
-- Understanding distributed systems
-- Making technology decisions
+### Learning Scenarios
+- Transitioning into tech leadership
+- Preparing for FAANG interviews
+- Learning systems architecture
+- Specializing in performance optimization
+- Building technical expertise
+- Learning specialized domains
+
+### Problem-Solving
+- System design challenges
+- Performance bottlenecks
+- Architecture decisions
+- Complex algorithm implementation
+- Testing strategy issues
+- Performance analysis
+
+### Advanced Topics
+- Distributed systems design
+- Consensus algorithms
+- Performance engineering
+- Advanced data structures
+- Game engine architecture
+- Blockchain systems
+- Security research
+
+## Success Criteria
+
+✅ Master core data structures and algorithms
+✅ Design scalable systems
+✅ Implement complex algorithms efficiently
+✅ Apply design patterns appropriately
+✅ Understand distributed system concepts
+✅ Optimize for performance and scale
+✅ Write testable code
+✅ Lead architectural decisions
+✅ Mentor junior developers
+✅ Contribute to research/innovation
+
+## Learning Sequence
+
+**Months 1-3: Data Structures**
+1. Arrays, linked lists, stacks
+2. Trees (binary, AVL, B-trees)
+3. Graphs and hashing
+4. Time/space complexity
+
+**Months 4-6: Algorithms**
+1. Sorting and searching
+2. Dynamic programming
+3. Graph algorithms
+4. Interview problems
+
+**Months 7-9: System Design**
+1. Scalability principles
+2. Database design
+3. Caching strategies
+4. Distributed systems basics
+
+**Months 10-12: Specialization**
+1. Choose: Architecture, Games, Performance, etc.
+2. Advanced concepts
+3. Real-world systems
+4. Optimization techniques
+
+**Months 13+: Mastery**
+1. Leadership and mentoring
+2. Innovation and research
+3. Complex systems
+4. Thought leadership
+
+## Expert Resources
+
+### Books (Foundational)
+- "Introduction to Algorithms" - Cormen et al. (CLRS)
+- "Designing Data-Intensive Applications" - Kleppmann
+- "Design Patterns" - Gang of Four
+- "The Pragmatic Programmer" - Hunt & Thomas
+- "Code: The Hidden Language" - Petzold
+
+### Advanced Topics
+- "Concrete Mathematics" - Graham, Knuth, Patashnik
+- "The Art of Computer Programming" - Knuth
+- "Database System Concepts" - Silberschatz et al.
+- "Compilers" - Aho, Lam, Sethi, Ullman
+
+### Courses & Resources
+- [MIT OpenCourseWare](https://ocw.mit.edu) - Free MIT courses
+- [Stanford CS Education](https://cs.stanford.edu) - Stanford CS
+- [CMU Data Structures](https://cmu.edu) - CMU courses
+- [LeetCode](https://leetcode.com) - Interview prep
+- [HackerRank](https://hackerrank.com) - Problem solving
+
+### Communities
+- [Stack Overflow](https://stackoverflow.com) - Q&A
+- [Computer Science Stack Exchange](https://cs.stackexchange.com)
+- [ArXiv CS](https://arxiv.org/list/cs/recent) - Research papers
+- [GitHub](https://github.com) - Open source projects
+- [Academic conferences](https://dblp.uni-trier.de) - Research
+
+## Agent Availability
+
+Available for:
+- Technical interview preparation
+- System design guidance
+- Architecture decision support
+- Algorithm optimization
+- Performance analysis
+- Design pattern consultation
+- Research and innovation
+- Technical leadership
+- Mentoring and career guidance
+- Specialized domain expertise
