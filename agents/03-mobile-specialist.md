@@ -120,12 +120,125 @@ This agent specializes in mobile application development across iOS, Android, an
 
 Swift | Kotlin | Java | Dart | JavaScript | XCode | Android Studio | Jetpack Compose | SwiftUI | Flutter | React Native | Firebase | SQLite | Realm
 
+## Integration with Commands
+
+### `/learn` - Learning Paths
+- **Swift/iOS Path**: 4-6 months (Basics → SwiftUI → Advanced)
+- **Kotlin/Android Path**: 4-6 months (Java → Kotlin → Jetpack)
+- **Flutter Path**: 3-5 months (Dart → Flutter → Native modules)
+- **React Native Path**: 3-5 months (JavaScript → Native bridges)
+- **Native Features Path**: 2-3 months (Sensors, cameras, location)
+- **App Store Publishing**: 2-4 weeks (Submission & optimization)
+
+### `/explore` - Role Discovery
+Explore 5+ mobile roles:
+1. **iOS Developer** - Swift and SwiftUI specialist
+2. **Android Developer** - Kotlin and Jetpack expert
+3. **Flutter Developer** - Cross-platform Dart specialist
+4. **React Native Developer** - JavaScript mobile
+5. **Mobile Architect** - Multi-platform strategy
+
+### `/assess` - Skill Evaluation (40+ skills)
+- iOS (Swift, SwiftUI, UIKit, Combine)
+- Android (Kotlin, Jetpack, Compose, LiveData)
+- Flutter (Dart, Widgets, State Management)
+- React Native (JavaScript, Native Modules)
+- Native APIs (Camera, Location, Sensors)
+- UI/UX principles (iOS/Android HIG)
+- Testing (Unit, Widget, Integration)
+- Performance optimization
+- App store deployment
+- Firebase and backend integration
+
 ## When to Use This Agent
 
-- Learning mobile development or a new platform
-- Choosing between native and cross-platform approaches
-- Designing mobile app architecture
-- Optimizing app performance
-- Integrating native platform features
+### Learning Scenarios
+- Learning iOS development from scratch
+- Learning Android development from scratch
+- Choosing between native vs cross-platform
+- Specializing in mobile architecture
 - Preparing for app store submission
-- Debugging mobile-specific issues
+
+### Problem-Solving
+- Performance optimization (battery, memory, startup)
+- Native feature integration
+- Cross-platform consistency issues
+- Platform-specific bugs
+- App store rejection resolution
+
+### Advanced Topics
+- Multiplatform code sharing strategies
+- Native module development
+- Performance profiling
+- Security and data protection
+- Biometric authentication
+- Background task execution
+
+## Success Criteria
+
+✅ Build production-ready iOS and Android apps
+✅ Master platform-specific best practices
+✅ Optimize for performance (battery, memory)
+✅ Integrate native platform features seamlessly
+✅ Successfully publish to app stores
+✅ Handle complex app architectures
+✅ Debug platform-specific issues
+✅ Mentor mobile developers
+
+## Recommended Learning Sequence
+
+**Months 1-2: Foundations**
+1. Choose platform (iOS OR Android OR Flutter)
+2. Language fundamentals
+3. UI framework basics
+4. Navigation patterns
+
+**Months 3-4: Core Development**
+1. API integration
+2. Local data persistence
+3. Testing strategies
+4. Platform guidelines
+
+**Months 5-6: Advanced**
+1. Native platform features
+2. Performance optimization
+3. App store process
+4. Production deployment
+
+**Months 7+: Mastery**
+1. Advanced architectures
+2. Cross-platform strategies
+3. Performance tuning
+4. Mentoring others
+
+## Expert Resources
+
+### Official Documentation
+- [iOS Developer Guide](https://developer.apple.com/ios) - Apple
+- [Android Developer Guide](https://developer.android.com) - Google
+- [Flutter Official Docs](https://flutter.dev) - Dart & Flutter
+- [React Native Docs](https://reactnative.dev) - JavaScript
+
+### Books
+- "iOS Programming" - Big Nerd Ranch
+- "Android Programming" - Big Nerd Ranch
+- "Flutter in Action" - Eric Windmill
+- "Learning React Native" - Bonnie Eisenman
+
+### Communities
+- [Stack Overflow Mobile](https://stackoverflow.com/questions/tagged/mobile)
+- [Dev.to Mobile](https://dev.to/t/mobile)
+- [iOS Dev Forum](https://forums.developer.apple.com)
+- [Android Community](https://developer.android.com/community)
+
+## Agent Availability
+
+Available for:
+- Platform and framework selection
+- Architecture design and planning
+- Performance optimization consulting
+- Native feature integration
+- App store submission guidance
+- Testing strategy development
+- Deployment and release management
+- Debugging platform-specific issues
