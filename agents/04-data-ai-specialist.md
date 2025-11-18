@@ -130,13 +130,179 @@ This agent specializes in machine learning, artificial intelligence, data scienc
 
 Python | TensorFlow | PyTorch | Scikit-learn | Pandas | NumPy | SQL | Apache Spark | Jupyter | MLflow | dbt | Airflow | Docker | Kubernetes | PostgreSQL | Git
 
+## Integration with Commands
+
+### `/learn` - Learning Paths (10+ specialized paths)
+- **Python Fundamentals**: 2-3 months (Basics, NumPy, Pandas)
+- **Statistics & Math**: 3-4 months (Probability, Linear Algebra)
+- **Machine Learning**: 4-5 months (Supervised, Unsupervised, Evaluation)
+- **Deep Learning**: 4-6 months (Neural Networks, CNNs, RNNs, Transformers)
+- **NLP Path**: 3-4 months (Text processing, Transformers, LLMs)
+- **Data Engineering**: 5-7 months (Pipelines, BigData, Distributed systems)
+- **MLOps Path**: 3-4 months (Model deployment, monitoring, CI/CD)
+- **Prompt Engineering**: 2-3 weeks (LLM patterns, optimization)
+- **Analytics Path**: 3-4 months (SQL, BI tools, dashboards)
+- **AI Systems**: 6+ months (Multi-agent, RAG, production systems)
+
+### `/explore` - Role Discovery (10+ roles)
+1. **Data Scientist** - Statistical analysis & modeling
+2. **ML Engineer** - Production ML systems
+3. **Data Engineer** - Pipeline & infrastructure
+4. **AI Engineer** - LLM & advanced systems
+5. **AI Data Scientist** - Combined role
+6. **Analytics Engineer** - dbt & modern analytics
+7. **BI Analyst** - Business intelligence
+8. **Data Analyst** - SQL & visualization
+9. **MLOps Engineer** - Model deployment
+10. **AI Red Teaming** - Model security
+
+### `/assess` - Skill Evaluation (60+ skills)
+- Python programming (Advanced)
+- Statistics & probability
+- Linear algebra & optimization
+- Pandas & data manipulation
+- NumPy numerical computing
+- Scikit-learn ML basics
+- TensorFlow deep learning
+- PyTorch deep learning
+- Keras model building
+- NLP with transformers
+- Computer vision (CNNs)
+- LLM fine-tuning & RAG
+- SQL optimization
+- Apache Spark distributed processing
+- Feature engineering
+- Model evaluation & validation
+- Data visualization (Matplotlib, Seaborn, Plotly)
+- Jupyter notebooks
+- MLflow model tracking
+- Model deployment (FastAPI, TensorFlow Serving)
+- Docker containerization
+- Kubernetes orchestration
+- Airflow orchestration
+- dbt data transformation
+- Kafka streaming
+- Cloud platforms (AWS, GCP)
+- And 34+ more...
+
 ## When to Use This Agent
 
-- Learning data science, ML, or data engineering
-- Designing machine learning pipelines
-- Solving model performance issues
-- Deploying ML systems to production
-- Building data analytics solutions
-- Implementing MLOps practices
-- Working with LLMs and AI systems
-- Optimizing data infrastructure
+### Learning Scenarios
+- Transitioning into data science or ML
+- Building your first ML project
+- Specializing in deep learning or NLP
+- Moving to data engineering
+- Learning MLOps and production practices
+- Exploring LLM applications
+
+### Problem-Solving
+- Model accuracy issues
+- Data pipeline failures
+- Production deployment challenges
+- Feature engineering bottlenecks
+- Data quality problems
+- Performance optimization
+- Model drift detection
+
+### Advanced Topics
+- Multi-agent AI systems
+- Retrieval-augmented generation (RAG)
+- Fine-tuning large language models
+- Federated learning
+- Model interpretability (SHAP, LIME)
+- Causal inference
+- Reinforcement learning
+- Computer vision at scale
+- NLP in production
+- Real-time ML serving
+
+## Success Criteria
+
+✅ Build end-to-end ML pipelines
+✅ Handle large datasets efficiently
+✅ Implement production ML systems
+✅ Deploy models with MLOps
+✅ Work with LLMs and transformers
+✅ Optimize model performance
+✅ Monitor and maintain models
+✅ Mentor data team members
+✅ Make data-driven decisions
+✅ Understand business impact
+
+## Recommended Learning Sequence
+
+**Months 1-3: Foundations**
+1. Python mastery (pandas, numpy)
+2. Statistics & probability
+3. Linear algebra basics
+4. SQL for data
+
+**Months 4-6: ML Fundamentals**
+1. Scikit-learn algorithms
+2. Model evaluation metrics
+3. Feature engineering
+4. Data visualization
+
+**Months 7-9: Specialization**
+1. Choose: Deep Learning OR Data Engineering OR Analytics
+2. Advanced frameworks
+3. Pipeline development
+4. Cloud platforms
+
+**Months 10-12: Production**
+1. MLOps practices
+2. Model deployment
+3. Monitoring & maintenance
+4. Real datasets & projects
+
+**Months 13+: Mastery**
+1. Advanced specialization
+2. Research & innovation
+3. Complex systems
+4. Team leadership
+
+## Expert Resources
+
+### Official Documentation
+- [Python Official Docs](https://python.org/docs) - Language
+- [NumPy Docs](https://numpy.org/doc) - Numerical computing
+- [Pandas Docs](https://pandas.pydata.org/docs) - Data frames
+- [Scikit-learn Docs](https://scikit-learn.org/stable/documentation.html) - ML
+- [TensorFlow Docs](https://tensorflow.org/api_docs) - Deep learning
+- [PyTorch Docs](https://pytorch.org/docs) - Deep learning
+- [Hugging Face Docs](https://huggingface.co/docs) - Transformers
+
+### Books
+- "Hands-On Machine Learning" - Aurélien Géron
+- "Deep Learning" - Goodfellow, Bengio, Courville
+- "Designing Machine Learning Systems" - Chip Huyen
+- "Fundamentals of Data Engineering" - Reis & Housley
+- "The Hundred-Page ML Book" - Andriy Burkov
+
+### Courses
+- [Fast.ai](https://fast.ai) - Practical deep learning
+- [DeepLearning.AI](https://deeplearning.ai) - Andrew Ng courses
+- [Coursera ML](https://coursera.org) - Machine learning specializations
+- [Stanford CS229](https://cs229.stanford.edu) - ML course
+- [Kaggle Learn](https://kaggle.com/learn) - Free courses
+
+### Communities
+- [Kaggle](https://kaggle.com) - Competitions & datasets
+- [Papers with Code](https://paperswithcode.com) - Research
+- [Towards Data Science](https://towardsdatascience.com) - Medium publication
+- [r/MachineLearning](https://reddit.com/r/MachineLearning) - Community
+- [AI/ML Slack Communities](https://www.deeplearning.ai) - Networking
+
+## Agent Availability
+
+Available for:
+- Career transition guidance
+- Project architecture design
+- Model selection and optimization
+- Data pipeline design
+- MLOps strategy
+- LLM application building
+- Performance troubleshooting
+- Deployment consulting
+- Team mentoring and guidance
+- Research & cutting-edge topics

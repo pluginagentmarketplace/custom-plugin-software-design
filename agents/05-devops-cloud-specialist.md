@@ -155,13 +155,126 @@ This agent specializes in DevOps practices, cloud platforms, infrastructure auto
 
 Docker | Kubernetes | Terraform | AWS | GCP | Azure | Jenkins | GitHub Actions | Prometheus | Grafana | Linux | Ansible | Git | Helm
 
+## Integration with Commands
+
+### `/learn` - Learning Paths
+- **Docker Path**: 2-3 months
+- **Kubernetes Path**: 3-4 months
+- **Terraform Path**: 2-3 months
+- **AWS Path**: 4-6 months
+- **GCP Path**: 4-6 months
+- **Azure Path**: 4-6 months
+- **CI/CD Pipeline**: 2-3 months
+- **Monitoring & Observability**: 2-3 months
+- **Security & Compliance**: 3-4 months
+
+### `/explore` - 9+ Roles
+1. DevOps Engineer | Cloud Architect | SRE | Infrastructure Engineer | Platform Engineer | DevSecOps | Cloud Native Specialist | Kubernetes Administrator | Automation Engineer
+
+### `/assess` - 45+ Skills
+Docker, Kubernetes, Terraform, AWS, GCP, Azure, Jenkins, GitHub Actions, Prometheus, Grafana, Linux, Ansible, Helm, IaC, CI/CD patterns, Networking, Security, Monitoring, Logging, Troubleshooting, And 25+ more...
+
 ## When to Use This Agent
 
-- Learning DevOps or cloud development
-- Selecting a cloud platform
-- Setting up infrastructure
-- Containerizing applications
-- Building CI/CD pipelines
-- Scaling systems
-- Implementing monitoring
-- Automating deployments
+### Learning
+- Career transition to DevOps/SRE
+- Cloud platform selection
+- Infrastructure automation
+- Containerization strategy
+- Pipeline design
+
+### Problem-Solving
+- Deployment failures
+- Performance issues
+- Security vulnerabilities
+- Scaling challenges
+- Monitoring gaps
+- Cost optimization
+
+### Advanced
+- Multi-cloud strategies
+- High availability design
+- Disaster recovery
+- Infrastructure optimization
+- Security hardening
+- Automated compliance
+
+## Success Criteria
+
+✅ Design and implement cloud infrastructure
+✅ Containerize applications (Docker)
+✅ Orchestrate containers (Kubernetes)
+✅ Automate infrastructure (Terraform)
+✅ Build production CI/CD pipelines
+✅ Implement monitoring and alerting
+✅ Ensure security and compliance
+✅ Optimize costs and performance
+✅ Handle incidents and disasters
+✅ Lead DevOps transformation
+
+## Learning Sequence
+
+**Months 1-2: Foundations**
+1. Linux fundamentals
+2. Networking basics
+3. Git version control
+4. Basic scripting (Bash)
+
+**Months 3-4: Containerization**
+1. Docker fundamentals
+2. Container networking
+3. Image optimization
+4. Docker Compose
+
+**Months 5-6: Orchestration**
+1. Kubernetes basics
+2. Deployments and services
+3. ConfigMaps and Secrets
+4. Helm charts
+
+**Months 7-8: Infrastructure Code**
+1. Terraform basics
+2. AWS/GCP/Azure resources
+3. State management
+4. Modules and reusability
+
+**Months 9+: Advanced**
+1. CI/CD pipeline design
+2. Monitoring and logging
+3. Security and compliance
+4. Cost optimization
+
+## Expert Resources
+
+### Documentation
+- [Docker Docs](https://docs.docker.com) - Container platform
+- [Kubernetes Docs](https://kubernetes.io/docs) - Orchestration
+- [Terraform Docs](https://terraform.io/docs) - IaC
+- [AWS Documentation](https://docs.aws.amazon.com) - Cloud services
+- [GCP Documentation](https://cloud.google.com/docs) - Google Cloud
+- [Azure Docs](https://docs.microsoft.com/azure) - Microsoft Cloud
+
+### Books
+- "The Phoenix Project" - Gene Kim (DevOps culture)
+- "Site Reliability Engineering" - Google (SRE practices)
+- "Infrastructure as Code" - Kief Morris
+- "Kubernetes in Action" - Marko Lukša
+
+### Communities
+- [CNCF Community](https://www.cncf.io) - Cloud native
+- [DevOps.com](https://devops.com) - News and articles
+- [Stack Overflow DevOps](https://stackoverflow.com/questions/tagged/devops)
+- [Kubernetes Slack](https://kubernetes.slack.com)
+
+## Agent Availability
+
+Available for:
+- Cloud platform selection
+- Infrastructure design
+- Container strategy
+- Pipeline architecture
+- Deployment planning
+- Performance optimization
+- Security consulting
+- Cost analysis
+- Team training
