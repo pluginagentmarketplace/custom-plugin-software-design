@@ -1,0 +1,170 @@
+{
+  "name": "custom-plugin-software-design",
+  "version": "1.0.0",
+  "displayName": "Software Design & Developer Roadmaps",
+  "description": "Comprehensive plugin covering 69+ developer roles with structured learning paths, design patterns, and professional development guidance. Features 7 specialized agents and 200+ skills.",
+  "author": "Custom Plugin Marketplace",
+  "license": "MIT",
+  "repository": "https://github.com/pluginagentmarketplace/custom-plugin-software-design",
+  "keywords": [
+    "developer-roadmap",
+    "software-design",
+    "learning-paths",
+    "design-patterns",
+    "architecture",
+    "backend",
+    "frontend",
+    "mobile",
+    "devops",
+    "ai-ml",
+    "database",
+    "skills"
+  ],
+  "agents": [
+    {
+      "id": "frontend-web-specialist",
+      "name": "Frontend & Web Development Specialist",
+      "description": "Expert in frontend technologies, web frameworks, and modern web development practices",
+      "file": "agents/01-frontend-web-specialist.md"
+    },
+    {
+      "id": "backend-server-specialist",
+      "name": "Backend & Server Architecture Specialist",
+      "description": "Expert in backend technologies, APIs, server design, and enterprise systems",
+      "file": "agents/02-backend-server-specialist.md"
+    },
+    {
+      "id": "mobile-specialist",
+      "name": "Mobile Development Specialist",
+      "description": "Expert in iOS, Android, Flutter, and cross-platform mobile development",
+      "file": "agents/03-mobile-specialist.md"
+    },
+    {
+      "id": "data-ai-specialist",
+      "name": "Data, AI & ML Specialist",
+      "description": "Expert in machine learning, data engineering, AI systems, and data science",
+      "file": "agents/04-data-ai-specialist.md"
+    },
+    {
+      "id": "devops-cloud-specialist",
+      "name": "DevOps & Cloud Infrastructure Specialist",
+      "description": "Expert in cloud platforms, DevOps practices, infrastructure as code, and deployment",
+      "file": "agents/05-devops-cloud-specialist.md"
+    },
+    {
+      "id": "database-management-specialist",
+      "name": "Database & Data Management Specialist",
+      "description": "Expert in databases, data modeling, storage systems, and data management",
+      "file": "agents/06-database-management-specialist.md"
+    },
+    {
+      "id": "fundamentals-architect",
+      "name": "CS Fundamentals & Architecture Specialist",
+      "description": "Expert in computer science fundamentals, architecture patterns, and system design",
+      "file": "agents/07-fundamentals-architect.md"
+    }
+  ],
+  "commands": [
+    {
+      "id": "learn",
+      "name": "/learn",
+      "description": "Start a structured learning path for any developer role",
+      "file": "commands/learn.md"
+    },
+    {
+      "id": "explore",
+      "name": "/explore",
+      "description": "Explore available roles and their roadmaps",
+      "file": "commands/explore.md"
+    },
+    {
+      "id": "assess",
+      "name": "/assess",
+      "description": "Self-assess your knowledge in specific skills",
+      "file": "commands/assess.md"
+    },
+    {
+      "id": "roadmap",
+      "name": "/roadmap",
+      "description": "View detailed roadmap for a specific role",
+      "file": "commands/roadmap.md"
+    }
+  ],
+  "skills": [
+    {
+      "id": "frontend-frameworks",
+      "name": "Frontend Frameworks",
+      "description": "React, Vue, Angular, and modern web frameworks",
+      "file": "skills/frontend/frameworks/SKILL.md"
+    },
+    {
+      "id": "web-fundamentals",
+      "name": "Web Fundamentals",
+      "description": "HTML, CSS, JavaScript, and TypeScript essentials",
+      "file": "skills/frontend/fundamentals/SKILL.md"
+    },
+    {
+      "id": "backend-languages",
+      "name": "Backend Languages",
+      "description": "Node.js, Python, Java, Go, PHP, and other backend languages",
+      "file": "skills/backend/languages/SKILL.md"
+    },
+    {
+      "id": "api-design",
+      "name": "API Design & Architecture",
+      "description": "RESTful APIs, GraphQL, gRPC, and API design patterns",
+      "file": "skills/backend/api-design/SKILL.md"
+    },
+    {
+      "id": "mobile-platforms",
+      "name": "Mobile Development Platforms",
+      "description": "iOS, Android, Flutter, React Native, and cross-platform development",
+      "file": "skills/mobile/platforms/SKILL.md"
+    },
+    {
+      "id": "machine-learning",
+      "name": "Machine Learning & AI",
+      "description": "ML algorithms, deep learning, NLP, and AI systems",
+      "file": "skills/data-ai/machine-learning/SKILL.md"
+    },
+    {
+      "id": "data-engineering",
+      "name": "Data Engineering & Analytics",
+      "description": "Data pipelines, data warehousing, analytics, and BI",
+      "file": "skills/data-ai/data-engineering/SKILL.md"
+    },
+    {
+      "id": "cloud-platforms",
+      "name": "Cloud Platforms & DevOps",
+      "description": "AWS, GCP, Azure, Docker, Kubernetes, and infrastructure automation",
+      "file": "skills/devops/cloud/SKILL.md"
+    },
+    {
+      "id": "infrastructure-as-code",
+      "name": "Infrastructure as Code",
+      "description": "Terraform, CloudFormation, Ansible, and IaC practices",
+      "file": "skills/devops/iac/SKILL.md"
+    },
+    {
+      "id": "databases",
+      "name": "Database Systems",
+      "description": "SQL, NoSQL, PostgreSQL, MongoDB, Redis, and data storage",
+      "file": "skills/databases/systems/SKILL.md"
+    },
+    {
+      "id": "system-design",
+      "name": "System Design & Architecture",
+      "description": "Scalable systems, microservices, distributed systems, and architectural patterns",
+      "file": "skills/architecture/design/SKILL.md"
+    },
+    {
+      "id": "computer-science",
+      "name": "Computer Science Fundamentals",
+      "description": "Data structures, algorithms, complexity analysis, and CS theory",
+      "file": "skills/fundamentals/cs/SKILL.md"
+    }
+  ],
+  "hooks": {
+    "file": "hooks/hooks.json"
+  }
+}

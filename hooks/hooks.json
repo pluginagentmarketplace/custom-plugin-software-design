@@ -1,0 +1,73 @@
+{
+  "hooks": [
+    {
+      "id": "learning-progress-tracker",
+      "name": "Learning Progress Tracker",
+      "description": "Automatically track user progress through learning paths",
+      "events": ["command-executed"],
+      "conditions": {
+        "commands": ["/learn", "/roadmap", "/assess"]
+      },
+      "action": {
+        "type": "track-progress",
+        "payload": {
+          "track": "skill-completion",
+          "metadata": "include-timestamp"
+        }
+      }
+    },
+    {
+      "id": "skill-recommendation-engine",
+      "name": "Skill Recommendation Engine",
+      "description": "Suggest next skills based on completed skills",
+      "events": ["skill-completed"],
+      "action": {
+        "type": "generate-recommendations",
+        "payload": {
+          "algorithm": "collaborative-filtering",
+          "count": 3
+        }
+      }
+    },
+    {
+      "id": "assessment-validator",
+      "name": "Assessment Validator",
+      "description": "Validate assessment answers and provide immediate feedback",
+      "events": ["assessment-submitted"],
+      "action": {
+        "type": "validate-assessment",
+        "payload": {
+          "immediate-feedback": true,
+          "save-results": true
+        }
+      }
+    },
+    {
+      "id": "learning-path-customizer",
+      "name": "Learning Path Customizer",
+      "description": "Customize learning paths based on user experience level",
+      "events": ["learning-path-selected"],
+      "action": {
+        "type": "customize-path",
+        "payload": {
+          "adjust-difficulty": true,
+          "adjust-pacing": true,
+          "add-prerequisites": true
+        }
+      }
+    },
+    {
+      "id": "resource-linkifier",
+      "name": "Resource Linkifier",
+      "description": "Convert learning resources to clickable links",
+      "events": ["content-loaded"],
+      "action": {
+        "type": "process-links",
+        "payload": {
+          "extract-resources": true,
+          "validate-urls": true
+        }
+      }
+    }
+  ]
+}
