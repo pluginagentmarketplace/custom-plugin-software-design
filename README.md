@@ -1,5 +1,8 @@
 # Custom Plugin: Software Design & Developer Roadmaps
 
+[![Run in Smithery](https://smithery.ai/badge/skills/pluginagentmarketplace)](https://smithery.ai/skills?ns=pluginagentmarketplace&utm_source=github&utm_medium=badge)
+
+
 > 📚 Comprehensive Claude Code plugin covering 69+ developer roles with 7 specialized agents, 200+ skills, and structured learning paths.
 
 ## 🎯 Overview
