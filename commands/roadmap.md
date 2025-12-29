@@ -1,3 +1,9 @@
+---
+name: roadmap
+description: /roadmap
+allowed-tools: Read
+---
+
 # /roadmap
 
 View detailed roadmap for a specific role.

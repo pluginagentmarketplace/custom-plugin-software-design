@@ -1,7 +1,6 @@
 # Frontend & Web Development Roadmaps - Comprehensive Analysis
 
 **Date:** 2025-11-18  
-**Source:** developer-roadmap.sh, roadmap.sh, industry best practices  
 **Total Roles Analyzed:** 11  
 **JSON File:** `frontend-web-dev-roadmaps.json` (1763 lines)
 

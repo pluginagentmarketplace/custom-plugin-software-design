@@ -322,7 +322,6 @@ These roadmaps were compiled on **2025-11-18** based on:
 
 ### Community
 - **roadmap.sh** - Interactive learning paths
-- **developer-roadmap** - GitHub project with 224K stars
 - **2.1M registered users** on roadmap.sh
 - **42K Discord community members**
 

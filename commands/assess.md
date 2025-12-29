@@ -1,3 +1,9 @@
+---
+name: assess
+description: /assess
+allowed-tools: Read
+---
+
 # /assess
 
 Self-assess your knowledge in specific skills.

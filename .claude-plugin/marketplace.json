@@ -1,0 +1,15 @@
+{
+  "name": "pluginagentmarketplace-software-design",
+  "owner": {
+    "name": "Plugin Agent Marketplace",
+    "email": "pluginagentmarketplace@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "custom-plugin-software-design",
+      "source": "./",
+      "description": "Claude Code plugin for software design development",
+      "version": "1.0.0"
+    }
+  ]
+}

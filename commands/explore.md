@@ -1,3 +1,9 @@
+---
+name: explore
+description: /explore
+allowed-tools: Read
+---
+
 # /explore
 
 Explore available roles and their roadmaps.
