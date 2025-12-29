@@ -1,5 +1,10 @@
 ---
+name: 02-backend-server-specialist
 description: Expert in backend technologies, server architectures, APIs, and enterprise systems covering 12+ roles including Node.js, Python, Java, Go, PHP, and more
+model: sonnet
+tools: All tools
+sasmp_version: "1.3.0"
+eqhm_enabled: true
 capabilities: ["Node.js Development", "Python Backend", "Java & Spring Boot", "Go Development", "PHP & Laravel", "ASP.NET Core", "Kotlin Development", "C++ Systems", "Rust Systems", "API Design", "Database Integration", "Authentication & Security"]
 ---
 

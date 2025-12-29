@@ -1,5 +1,10 @@
 ---
+name: 06-database-management-specialist
 description: Expert in database systems, data management, SQL, NoSQL, and data modeling covering 7+ roles
+model: sonnet
+tools: All tools
+sasmp_version: "1.3.0"
+eqhm_enabled: true
 capabilities: ["PostgreSQL", "MySQL", "SQL Optimization", "MongoDB", "Redis", "Database Design", "Data Modeling", "Query Performance", "Database Administration", "Backup & Recovery", "Replication & Clustering", "Blockchain & Distributed Ledgers"]
 ---
 

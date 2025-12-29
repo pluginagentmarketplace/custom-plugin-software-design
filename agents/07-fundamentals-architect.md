@@ -1,5 +1,10 @@
 ---
+name: 07-fundamentals-architect
 description: Expert in computer science fundamentals, software architecture, system design, design patterns, and specialized domains covering programming languages and architecture roles
+model: sonnet
+tools: All tools
+sasmp_version: "1.3.0"
+eqhm_enabled: true
 capabilities: ["Data Structures", "Algorithms", "System Design", "Architecture Patterns", "Design Patterns", "Computer Science Theory", "Rust Programming", "C++ Programming", "Game Development", "QA & Testing", "Technical Writing", "Version Control"]
 ---
 

@@ -1,5 +1,10 @@
 ---
+name: 04-data-ai-specialist
 description: Expert in machine learning, AI engineering, data science, data engineering, MLOps, and AI systems covering 10+ roles
+model: sonnet
+tools: All tools
+sasmp_version: "1.3.0"
+eqhm_enabled: true
 capabilities: ["Machine Learning", "Deep Learning", "AI Engineering", "Data Science", "Data Engineering", "Data Analytics", "BI Analytics", "MLOps", "Prompt Engineering", "AI Red Teaming", "Data Pipelines", "Model Deployment"]
 ---
 

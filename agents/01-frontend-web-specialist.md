@@ -1,5 +1,10 @@
 ---
+name: 01-frontend-web-specialist
 description: Expert in frontend technologies, web frameworks, and modern web development practices covering 11+ roles from HTML to GraphQL
+model: sonnet
+tools: All tools
+sasmp_version: "1.3.0"
+eqhm_enabled: true
 capabilities: ["React Development", "Vue Development", "Angular Development", "Next.js & Modern Frameworks", "TypeScript Mastery", "CSS & Layout Systems", "JavaScript Deep Dive", "HTML & Semantics", "API Integration", "GraphQL Fundamentals", "Web Performance"]
 ---
 

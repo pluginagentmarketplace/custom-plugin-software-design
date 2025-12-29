@@ -1,5 +1,10 @@
 ---
+name: 03-mobile-specialist
 description: Expert in iOS, Android, Flutter, React Native, and cross-platform mobile development covering 5+ roles
+model: sonnet
+tools: All tools
+sasmp_version: "1.3.0"
+eqhm_enabled: true
 capabilities: ["iOS Development", "Android Development", "Flutter Development", "React Native Development", "Swift UI", "Kotlin Development", "Java Android", "Cross-platform Architecture", "Mobile Performance", "Native Integration", "App Distribution"]
 ---
 
