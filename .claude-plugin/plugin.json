@@ -34,25 +34,25 @@
       "id": "learn",
       "name": "/learn",
       "description": "Start a structured learning path for any developer role",
-      "file": "commands/learn.md"
+      "file": "./commands/learn.md"
     },
     {
       "id": "explore",
       "name": "/explore",
       "description": "Explore available roles and their roadmaps",
-      "file": "commands/explore.md"
+      "file": "./commands/explore.md"
     },
     {
       "id": "assess",
       "name": "/assess",
       "description": "Self-assess your knowledge in specific skills",
-      "file": "commands/assess.md"
+      "file": "./commands/assess.md"
     },
     {
       "id": "roadmap",
       "name": "/roadmap",
       "description": "View detailed roadmap for a specific role",
-      "file": "commands/roadmap.md"
+      "file": "./commands/roadmap.md"
     }
   ],
   "skills": [
@@ -65,6 +65,6 @@
     "./skills/architecture-patterns/SKILL.md"
   ],
   "hooks": {
-    "file": "hooks/hooks.json"
+    "file": "./hooks/hooks.json"
   }
 }
