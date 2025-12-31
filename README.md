@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Typing Banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Software+Design+Assistant;7+Agents+%7C+0+Skills;Claude+Code+Plugin" alt="Software Design Assistant" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Software+Design+Assistant;7+Agents+%7C+7+Skills;Claude+Code+Plugin" alt="Software Design Assistant" />
 
 <br/>
 
@@ -13,7 +13,7 @@
 
 <!-- Badge Row 2: Content Badges -->
 [![Agents](https://img.shields.io/badge/Agents-7-orange?style=flat-square&logo=robot)](#-agents)
-[![Skills](https://img.shields.io/badge/Skills-0-purple?style=flat-square&logo=lightning)](#-skills)
+[![Skills](https://img.shields.io/badge/Skills-7-purple?style=flat-square&logo=lightning)](#-skills)
 [![Commands](https://img.shields.io/badge/Commands-4-green?style=flat-square&logo=terminal)](#-commands)
 
 <br/>
@@ -25,7 +25,7 @@
 
 ### What is this?
 
-> **Software Design Assistant** is a Claude Code plugin with **7 agents** and **0 skills** for software design development.
+> **Software Design Assistant** is a Claude Code plugin with **7 agents** and **7 skills** for software design development.
 
 </div>
 
@@ -110,7 +110,7 @@ custom-plugin-software-design:03-mobile-specialist
 | Feature | Description |
 |---------|-------------|
 | 🤖 **7 Agents** | Specialized AI agents for software design tasks |
-| 🛠️ **0 Skills** | Reusable capabilities with Golden Format |
+| 🛠️ **7 Skills** | Reusable capabilities with Golden Format |
 | ⌨️ **4 Commands** | Quick slash commands |
 | 🔄 **SASMP v1.3.0** | Full protocol compliance |
 
@@ -173,7 +173,7 @@ custom-plugin-software-design/
 │   ├── plugin.json
 │   └── marketplace.json
 ├── 📁 agents/              # 7 agents
-├── 📁 skills/              # 0 skills (Golden Format)
+├── 📁 skills/              # 7 skills (Golden Format)
 ├── 📁 commands/            # 4 commands
 ├── 📁 hooks/
 ├── 📄 README.md
@@ -194,7 +194,7 @@ custom-plugin-software-design/
 | **Status** | Production Ready |
 | **SASMP** | v1.3.0 |
 | **Agents** | 7 |
-| **Skills** | 0 |
+| **Skills** | 7 |
 | **Commands** | 4 |
 
 ---
