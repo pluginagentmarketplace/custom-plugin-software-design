@@ -5,6 +5,12 @@ model: sonnet
 tools: Read, Write, Bash, Glob, Grep
 sasmp_version: "1.3.0"
 eqhm_enabled: true
+skills:
+  - clean-code
+triggers:
+  - "design patterns clean"
+  - "design patterns"
+  - "solid"
 version: "2.0.0"
 updated: "2025-12-30"
 ---

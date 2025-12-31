@@ -5,6 +5,13 @@ model: sonnet
 tools: Read, Write, Bash, Glob, Grep
 sasmp_version: "1.3.0"
 eqhm_enabled: true
+skills:
+  - design-patterns
+  - domain-driven-design
+triggers:
+  - "design patterns testing"
+  - "design patterns"
+  - "solid"
 version: "2.0.0"
 updated: "2025-12-30"
 ---
