@@ -63,8 +63,5 @@
     "./skills/domain-driven-design/SKILL.md",
     "./skills/tdd-practices/SKILL.md",
     "./skills/architecture-patterns/SKILL.md"
-  ],
-  "hooks": {
-    "file": "./hooks/hooks.json"
-  }
+  ]
 }
